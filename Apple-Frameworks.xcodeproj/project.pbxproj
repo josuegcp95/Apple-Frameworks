@@ -65,12 +65,12 @@
 		334EB6402A1DBF8100A2DF1D /* Apple-Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				334EB6412A1DBF8100A2DF1D /* Apple_FrameworksApp.swift */,
+				334EB6452A1DBF8200A2DF1D /* Assets.xcassets */,
 				334EB6662A23042500A2DF1D /* UIKit Components */,
 				334EB6632A2303DA00A2DF1D /* Views */,
 				334EB6622A2303CA00A2DF1D /* Model */,
 				334EB65F2A23036700A2DF1D /* Screens */,
-				334EB6412A1DBF8100A2DF1D /* Apple_FrameworksApp.swift */,
-				334EB6452A1DBF8200A2DF1D /* Assets.xcassets */,
 				334EB6472A1DBF8200A2DF1D /* Preview Content */,
 			);
 			path = "Apple-Frameworks";
@@ -367,6 +367,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -396,6 +397,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

@@ -26,7 +26,7 @@ struct FrameworkGridView: View {
             .navigationDestination(for: Framework.self) { framework in
                 FrameworkDetailView(framework: framework)
             }
-        }
+        } 
     }
 }
 
